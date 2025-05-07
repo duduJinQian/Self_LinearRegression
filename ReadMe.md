@@ -11,4 +11,4 @@
 - 训练集和预测集的收敛情况如下（数据源来自网络数据）：
      
 
-![loss](loss_chage.PNG)
+![loss](loss_chage.png)
